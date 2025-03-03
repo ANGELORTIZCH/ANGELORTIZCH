@@ -1,10 +1,10 @@
 - ## 👋 Hi there! I'm Angel   
-### 💻 Software Development Engineering Student | 📱 Mobile & Data Enthusiast
+### 💻 Software Development Engineering| 📱 Mobile & Data Enthusiast
 
 I'm passionate about mobile app development and data analysis. Currently, I'm enhancing my skills through freelance projects and continuous learning. 🚀
 
 🔧 Technologies & Tools:
-- **Languages**: Python, SQL, JavaScript, Dart & Swift
+- **Languages**: Python, SQL, JavaScript, Dart, Swift, PHP & Java
 - **Mobile Development**: Flutter, React Native
 - **Data Analysis**: Power BI, Tableau, Pandas, NumPy
 - **Databases**: MySQL, PostgreSQL
