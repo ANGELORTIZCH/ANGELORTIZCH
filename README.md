@@ -13,7 +13,7 @@ I'm passionate about mobile app development and data analysis. Currently, I'm en
 
 ### 📫 Contact Me:
 - ✉️ Email: ORTIZ1997@OUTLOOK.COM
-- 💼 LinkedIn: https://www.linkedin.com/in/angel-alexis-ortiz-7840131b3/
+
 
 💡 *Always eager to learn and collaborate on exciting projects!* 🚀
 
