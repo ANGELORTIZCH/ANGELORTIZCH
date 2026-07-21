@@ -1,21 +1,30 @@
-- ## 👋 Hi there! I'm Angel   
-### 💻 Software Development Engineering| 📱 Mobile & Data Enthusiast
+### 👋 ¡Hola! Soy Angel / Hi there! I'm Angel
 
-I'm passionate about mobile app development and data analysis. Currently, I'm enhancing my skills through freelance projects and continuous learning. 🚀
+#### 💻 Full Stack Developer
 
-🔧 Technologies & Tools:
-- **Languages**: Python, SQL, JavaScript, Dart, Swift, PHP & Java
-- **Mobile Development**: Flutter, React Native
-- **Data Analysis**: Power BI, Tableau, Pandas, NumPy
-- **Databases**: MySQL, PostgreSQL
-- **Version Control**: Git & GitHub
+**Español**
+Desarrollador full stack, apasionado por el desarrollo móvil y web. Actualmente enfocado en proyectos freelance y aprendizaje continuo. 🚀
 
+**English**
+Full stack developer, passionate about mobile and web development. Currently focused on freelance projects and continuous learning. 🚀
 
-### 📫 Contact Me:
-- ✉️ Email: ORTIZ1997@OUTLOOK.COM
+---
 
+### 🛠️ Tecnologías & Herramientas / Technologies & Tools
 
-💡 *Always eager to learn and collaborate on exciting projects!* 🚀
+- **Mobile Development:** Flutter, Swift
+- **Backend & Cloud:** Firebase (Firestore, Auth)
+- **Languages:** Dart, Swift, JavaScript, Python, SQL, PHP, Java
+- **Databases:** MySQL, PostgreSQL
+- **Version Control:** Git & GitHub
+
+---
+
+### 📬 Contáctame / Contact Me
+
+- ✉️ Email: [hello@aleksloevaks.com](mailto:hello@aleksloevaks.com)
+
+💡 *Siempre dispuesto a aprender y colaborar en proyectos interesantes / Always eager to learn and collaborate on exciting projects!* 🚀
 
 <!---
 ANGELORTIZCH/ANGELORTIZCH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
